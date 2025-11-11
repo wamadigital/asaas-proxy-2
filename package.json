@@ -4,5 +4,11 @@
   "private": true,
   "license": "MIT",
   "type": "module",
-  "dependencies": {}
+  "dependencies": {
+    "@vercel/node": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "typescript": "latest"
+  }
 }
